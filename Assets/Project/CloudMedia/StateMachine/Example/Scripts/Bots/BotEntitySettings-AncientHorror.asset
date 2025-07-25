@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe7bbc69bebf48208a77397b59021d70, type: 3}
+  m_Name: BotEntitySettings-AncientHorror
+  m_EditorClassIdentifier: 
+  MySide: 3
+  MyFriends: 
+  MyEnemies: 000000000100000002000000
+  BaseHealth: 2000
+  Bullet: {fileID: 7770200461918311969, guid: f73e1652d6f37c048af8dede10cde7d4, type: 3}
+  ShotSpeed: 20
+  FireRate: 1
+  ShootingRange: 50
+  FollowDistance: 60
+  DetectionRange: 70
+  RoamDistance: 50
+  TargetObstructionLayers:
+    serializedVersion: 2
+    m_Bits: 0

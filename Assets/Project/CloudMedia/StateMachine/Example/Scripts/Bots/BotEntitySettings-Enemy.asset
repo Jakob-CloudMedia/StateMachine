@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe7bbc69bebf48208a77397b59021d70, type: 3}
+  m_Name: BotEntitySettings-Enemy
+  m_EditorClassIdentifier: 
+  MySide: 1
+  MyFriends: 
+  MyEnemies: 000000000200000003000000
+  BaseHealth: 200
+  Bullet: {fileID: 7770200461918311969, guid: 5c126f0bad7c3e94aa5bd5ad8633b432, type: 3}
+  ShotSpeed: 40
+  FireRate: 1
+  ShootingRange: 20
+  FollowDistance: 20
+  DetectionRange: 30
+  RoamDistance: 20
+  TargetObstructionLayers:
+    serializedVersion: 2
+    m_Bits: 0

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4fc5e676f119784c9d4861b9cf856bd, type: 3}
+  m_Name: PredicateAncientHorrorActive
+  m_EditorClassIdentifier: 
+  FromStates:
+  - {fileID: 11400000, guid: 8fed3728ece877a4f91c543ed6c9ab0b, type: 2}
+  ToStates:
+  - {fileID: 11400000, guid: 3a090008bce070545b4a7bfe025e6750, type: 2}
