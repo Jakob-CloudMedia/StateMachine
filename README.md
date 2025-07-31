@@ -1,3 +1,5 @@
+![Screenshot of example scene](statemachine.png)
+
 # Goblin State Machine for Unity
 
 This is a lightweight, flexible state machine system for Unity, built around `ScriptableObject`-based states and predicates. Designed for AI characters, bots, enemies, and other brain-dead units that need clear behavior switching with reusable logic and clean runtime data separation.
